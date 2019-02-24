@@ -67,9 +67,6 @@ $stmt = $pdo->query($sql);
 <!doctype html>
 <html>
     <head>
-    		<link rel="stylesheet" type="text/css" href="./css/modal.css">
-    		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    		<script src="./js/modal.js"></script>
             <meta charset="UTF-8">
             <title>掲示板</title>
     </head>
